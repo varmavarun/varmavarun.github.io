@@ -1,0 +1,12 @@
+body {text-align: left; background:#ffffff; padding: 0 10% 0 10%}
+
+h1 {font-family: Arial, Helvetica, sans-serif; color: #1d1e1f; font-size: 2em; padding: 0 3% 0 3%}
+h2 {font-family: Arial, Helvetica, sans-serif; color: #3b3e40; font-size: 1.5em; padding: 0 3% 0 3%}
+h3 {font-family: Arial, Helvetica, sans-serif; color: #3b3e40; font-size: 1.3em; padding: 0 3% 0 3%}
+h4 {font-family: Arial, Helvetica, sans-serif; color: #3b3e40; font-size: 1.1em; padding: 0 3% 0 3%}
+p {font-family: Arial, Helvetica, sans-serif; color: #4d5357; font-size: 1.2em; padding: 0 3% 0 3%; line-height: 150%}
+p {font-family: Arial, Helvetica, sans-serif; color: #03fcca; font-size: 1.2em; padding: 0 3% 0 3%; line-height: 150%}
+
+
+div.sidebar{width: 20%; height:100%; float: left; text-align: center; background: #ebffe3; word-wrap: break-word;}
+div.main {width: 70%; padding: 0 10% 0 20%; text-align: left}
