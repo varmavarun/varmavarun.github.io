@@ -23,7 +23,7 @@ li a {
 
 
 li a.menu {
-  font-family: Ubuntu, sans-serif;	
+  font-family: 'Ubuntu', sans-serif;	
   display: block;
   color: white;
   text-align: center;
@@ -46,7 +46,7 @@ body{
 
 
 h1 {
-  font-family: Ubuntu, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   color: #ba481d;
   padding: 0% 0% 0% 0%;
@@ -60,14 +60,14 @@ h1.cen {
 
 
 h2 {
-  font-family: Ubuntu, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2.0rem;
   color: #ba481d;
   padding: 0% 0% 0% 0%;
 }
 
 p {
-  font-family: Trebuchet MS, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 1.2rem;
   color: #392f2f;
   padding: 0% 5% 0% 5%;
